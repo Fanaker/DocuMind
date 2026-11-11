@@ -1,6 +1,6 @@
 # DocuMind · Document Intelligence Assistant
 
-**Proyecto de portafolio #14 · IA aplicada / NLP / Document Retrieval**
+**IA aplicada · NLP · Document Retrieval**
 
 Asistente de consulta de documentación interna con referencias: indexa archivos Markdown/TXT, recupera secciones relevantes y responde **extrayendo texto de los documentos reales**, sin inventar respuestas cuando no hay evidencia suficiente. Funciona completamente en local y **no necesita API de pago**.
 
@@ -107,4 +107,6 @@ Ideal para explicar NLP básico, búsqueda de información, métricas de recuper
 
 ---
 
-**Proyecto de demostración para portafolio · Fanaker Labs · 2026**
+## Autor y licencia
+
+**Fanaker Labs** · Proyecto personal de procesamiento de lenguaje natural y recuperación documental. Código bajo licencia [MIT](LICENSE).
